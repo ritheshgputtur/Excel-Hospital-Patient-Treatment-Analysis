@@ -16,3 +16,8 @@ This project focuses on analyzing hospital patient treatment data using Microsof
 - hospital_patient_treatment_dataset.xlsx – Dataset and analysis
 - dashboard.pdf – Dashboard pdf
   
+## Insights 
+- Surgery gives best recovery
+- Higher cost → better outcomes
+- Middle-aged recover faster
+- Recovery varies by doctor & department
