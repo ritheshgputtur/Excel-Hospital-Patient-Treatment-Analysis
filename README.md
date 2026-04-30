@@ -14,6 +14,5 @@ This project focuses on analyzing hospital patient treatment data using Microsof
 
 ## Project Files
 - hospital_patient_treatment_dataset.xlsx – Dataset and analysis
-- dashboard.pdf – Project documentation
+- dashboard.pdf – Dashboard pdf
   
-
